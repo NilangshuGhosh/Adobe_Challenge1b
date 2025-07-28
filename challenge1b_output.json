@@ -1,0 +1,31 @@
+{
+  "persona": "Role: Investment Analyst  \nLooking for: Analyze revenue trends, R&D investments, and market positioning strategies",
+  "documents": [
+    {
+      "filename": "companyA_2024.pdf",
+      "relevance_score": 0.135,
+      "top_sections": [
+        {
+          "section_title": "Title: Annual Report 2024 – TechNova Inc. ",
+          "content_snippet": "Title: Annual Report 2024 – TechNova Inc. \nIn 2024, TechNova reported a 12% increase in revenue, driven by cloud services. R&D \ninvestments rose to $1.8B, focusing on AI infrastructure. The company expanded into \nSoutheast Asia, aiming to disrupt the enterprise solutions market. Strategic partnershi",
+          "score": 0.405
+        }
+      ]
+    },
+    {
+      "filename": "ai_medicine.pdf",
+      "relevance_score": 0.0,
+      "top_sections": []
+    },
+    {
+      "filename": "companyA_2022.pdf",
+      "relevance_score": 0.0,
+      "top_sections": []
+    },
+    {
+      "filename": "companyA_2023.pdf",
+      "relevance_score": 0.0,
+      "top_sections": []
+    }
+  ]
+}
